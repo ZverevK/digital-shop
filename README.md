@@ -1,4 +1,4 @@
-﻿# NewsExplorer
+﻿# DigitalShop
 
 ###### Версия проекта: 1.0.0
 
